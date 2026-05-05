@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Aspiring Software Developer focused on building scalable web applications<br>💻 Strong foundation in Data Structures & Algorithms with consistent practice<br>🛠️ Hands-on experience with React, Node.js, and backend development<br>📈 Interested in system design, clean code, and real-world problem solving
+🚀 Python Developer | AI/ML Enthusiast <br> Aspiring Software Developer focused on building scalable web applications<br>💻 Strong foundation in Data Structures & Algorithms with consistent practice<br>🛠️ Hands-on experience with React, Node.js, and backend development<br>
 
 
 ## 🌐 Socials:
